@@ -21,7 +21,7 @@ Designed with a gradient background and clean layout, this project demonstrates 
 
 ## 📸 Preview
 
-![Mini Calendar Screenshot](.png)
+![Mini Calendar Screenshot](calendar-ui.png)
 
 ---
 
